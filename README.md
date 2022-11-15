@@ -1,8 +1,7 @@
 ### Olá, eu sou Larissa Ribeiro 👋
 
-- 🌱 Eu estou estudando HTML, CSS e Javascript
-- 💻 Eu estou cursando Análise e Desenvolvimento de Sistemas
-- 😄 Pronouns: ela/dela
+- 🌱 Estou estudando HTML, CSS e Javascript
+- 💻 Estou cursando Análise e Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/llarissaribeiro">
