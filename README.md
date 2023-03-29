@@ -5,13 +5,11 @@ E agora, eu sou:<br>
 💻 Estou cursando Análise e Desenvolvimento de Sistema <br>
 🌍 Moro em Guanambi-Ba<br><br>
 
+
+
 ## ⬛️ GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=llarissaribeiro&theme=radical&hide_border=true&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=llarissaribeiro&theme=radical&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=llarissaribeiro&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 <a href="http://www.github.com/llarissaribeiro"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=llarissaribeiro&bg_color=1c1917&color=ffffff&line=0cd0cd&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><br><br>
-
-## ⬛️ GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=llarissaribeiro&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-<br><br>
 
 
 
