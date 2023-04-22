@@ -3,7 +3,7 @@
 E agora, eu sou:<br>
 👩🏻‍💻 Desenvolvedor de Software <br>
 💻 Estou cursando Análise e Desenvolvimento de Sistema <br>
-🌍 Moro em Guanambi-Ba<br><br>
+🌍 Moro em Guanambi - BA<br><br>
 
 
 
