@@ -1,7 +1,7 @@
 # Olá, eu sou Larissa Ribeiro
 
 E agora, eu sou:<br>
-👩🏻‍💻 Desenvolvedor de Software <br>
+👩🏻‍💻 Desenvolvedora de Software <br>
 💻 Estou cursando Análise e Desenvolvimento de Sistema <br>
 🌍 Moro em Guanambi - BA<br><br>
 
